@@ -182,9 +182,9 @@ can see in the image down below.
 
 -   And final layer is 10 category of images dense layer
 
-> <img src="./attachments/$myfilename/media/image17.png"
-> style="width:4.17248in;height:3.86248in"
-> alt="Table Description automatically generated" />
+<img src="./attachments/$myfilename/media/image17.png"
+style="width:4.17248in;height:3.86248in"
+alt="Table Description automatically generated" />
 
 After I trained over 11 epochs, I reached 0.80142 accuracy on the
 validation set (epoch 8), and I made an early stop when accuracy did not
